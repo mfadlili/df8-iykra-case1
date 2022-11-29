@@ -26,7 +26,9 @@ Replace the contents of key.json with your own access key.
 Don't forget to replace project_id, url and bucket with your own, here's the description:
 
 project_id : project_id of the project name in your google cloud storage service
+
 url : url of the file to download
+
 bucket : bucket name on your google cloud storage service
 
 Wait until the installation finished. Run the program by run the command below:
